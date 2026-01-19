@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://anrfpairiitk.in/sitemap.xml
+
+# Disallow admin or private directories (if any)
+Disallow: /assets/
+Allow: /assets/images/
+Allow: /assets/*.pdf
+Allow: /assets/*.docx
